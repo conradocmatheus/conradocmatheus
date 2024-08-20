@@ -14,12 +14,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=conradocmatheus.conradocmatheus&"  />
-</div>
-
-###
-
 <h3 align="left">Skills</h3>
 
 ###

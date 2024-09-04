@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey, I'm a Software Engineering student at UniAmérica, currently in my 4th semester. I'm also an intern at CloudCRM</p>
+<p align="left">Hey, I'm a Software Engineering student at UniAmérica, currently in my 4th semester. I'm also an intern at CloudCRM.</p>
 
 ###
 
@@ -14,7 +14,7 @@
   - ✨ Crafting Solutions Since 2022<br>
   - 📚 Currently Learning: API development with Spring Boot<br>
   - 🔭 I’m currently working on a marketplace project<br>
-  - 🎯 Goals: Learn and develop practical software solutions and pursue opportunities to work internationally.
+  - 🎯 Goals: Learn and develop practical software solutions and pursue opportunities to work internationally
 </p>
 
 ###

@@ -19,7 +19,7 @@
 
 ## 🛠️ Skills
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
@@ -31,7 +31,7 @@
 
 ### Databases & Tools
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
@@ -40,7 +40,7 @@
 
 ### Front-End Development
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />

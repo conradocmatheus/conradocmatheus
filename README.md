@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Hey, I'm a Software Engineering student at UniAmérica, currently in my 5th semester. </p>
+<p> I have about 6 months of experience with php, laravel, C#, .net & vue.js</p>
 
 ###
 

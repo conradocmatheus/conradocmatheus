@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Hey, I'm a Software Engineering student at UniAmérica, currently in my 5th semester. </p>
-<p align="left"> I have about 6 months of experience with php, laravel, C#, .net & vue.js</p>
+<p align="left"> </p>
 
 ###
 
@@ -15,6 +15,7 @@
   - ✨ Crafting Solutions Since 2022<br>
   - 📚 Currently Learning: Infraestructure and network configuration<br>
   - 🎯 Goals: Learn and develop practical software solutions and pursue opportunities to work internationally
+  - 🧪 Experience: I have about 6 months of experience with php, laravel, C#, .net & vue.js
 </p>
 
 ## 🛠️ Skills

@@ -15,7 +15,7 @@
   - ✨ Crafting Solutions Since 2022<br>
   - 📚 Currently Learning: Infraestructure and network configuration<br>
   - 🎯 Goals: Learn and develop practical software solutions and pursue opportunities to work internationally<br>
-  - 🧪 Experience: I have about 6 months of experience with php, laravel, C#, .net & vue.js
+  - 🧪 Experience: I have about 6 months of experience developing solutions and resolving problems with php, laravel, C#, .net & vue.js
 </p>
 
 ## 🛠️ Skills

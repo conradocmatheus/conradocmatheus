@@ -26,6 +26,11 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ### Databases & Tools

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey, I'm a Software Engineering student at UniAmérica, currently in my 4th semester. I'm also a Trainee at AgroBrasilCRM.</p>
+<p align="left">Hey, I'm a Software Engineering student at UniAmérica, currently in my 5th semester. </p>
 
 ###
 
